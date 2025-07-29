@@ -7,8 +7,14 @@ this focus that makes landing pages the best option for increasing the conversio
 (https://ankitt1868.github.io/PRODIGY_WD_01/)
 
 # Screenshots
-
-![Video alt](https://github.com/Ankitt1868/PRODIGY_WD_01/blob/1939788e03b06d8aaca1f1730e1d4eae910aa354/Responsive%20Landing%20Page%20Web%20Application.mp4)
+# Number-1
+![Image alt]
+# Number-2
+![Image alt]
+# Number-3
+![Image alt]
+# Number-4
+![Image alt]
 
 # Contact
 For any inquiries, reach out at [ankittiwari1868@gmail.com].
