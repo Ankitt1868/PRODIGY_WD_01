@@ -8,13 +8,13 @@ this focus that makes landing pages the best option for increasing the conversio
 
 # Screenshots
 # Number-1
-![Image alt]
+![Image alt](https://github.com/Ankitt1868/PRODIGY_WD_01/blob/f646ed36c48bd118d3809c9945d847b4751f1ba4/Screenshoots/Screenshoot-1.png)
 # Number-2
-![Image alt]
+![Image alt](https://github.com/Ankitt1868/PRODIGY_WD_01/blob/f646ed36c48bd118d3809c9945d847b4751f1ba4/Screenshoots/Screenshoot-2.png)
 # Number-3
-![Image alt]
+![Image alt](https://github.com/Ankitt1868/PRODIGY_WD_01/blob/f646ed36c48bd118d3809c9945d847b4751f1ba4/Screenshoots/Screenshoot-3.png)
 # Number-4
-![Image alt]
+![Image alt](https://github.com/Ankitt1868/PRODIGY_WD_01/blob/f646ed36c48bd118d3809c9945d847b4751f1ba4/Screenshoots/Screenshoot-4.png)
 
 # Contact
 For any inquiries, reach out at [ankittiwari1868@gmail.com].
