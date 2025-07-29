@@ -4,7 +4,8 @@ Responsive-Landing-Page-Web-Application
 this focus that makes landing pages the best option for increasing the conversion rates of your marketing campaigns and lowering your cost of acquiring a lead or sale.
 
 # Demo Link 
-(https://ankitt1868.github.io/PRODIGY_WD_01/)
+
+Check out the live demo [here](https://ankitt1868.github.io/PRODIGY_WD_01/)
 
 # Screenshots
 # Number-1
